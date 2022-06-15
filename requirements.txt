@@ -1,0 +1,8 @@
+#we will be needed to install some python modules for visualization 
+
+Numpy
+pandas
+matplotlib
+plotly
+seaborn
+cufflinks
