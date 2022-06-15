@@ -1,0 +1,4 @@
+Web scraping of google news of 1200 celebs for all the given dates and count the number of news for each celebs for given date.
+
+
+In this project we are scraping all the google news of the list of celebs for given list of dates and then we are filtering and counting total number of news for a particular celebrity. we will finally get a csv file of number of news for a given date of each celeb. 
