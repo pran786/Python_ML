@@ -1,0 +1,11 @@
+#We need all the below python modules installed
+
+beautifulsoup
+numpy
+pandas
+datetime 
+timedelta
+
+
+We are using beautifulsoup for web scraping from web page. 
+ 
