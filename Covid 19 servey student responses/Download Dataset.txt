@@ -1,0 +1,4 @@
+Download the dataset from kaggle. here is the link to download
+
+https://www.kaggle.com/datasets/kunal28chaturvedi/covid19-and-its-impact-on-students
+
