@@ -1,0 +1,3 @@
+In this project we have a dataset of AC usage of Number of AC's from AC1, AC2 and so on.
+
+we have to clean that data and find some answers of questions of AC usage of each month. 
